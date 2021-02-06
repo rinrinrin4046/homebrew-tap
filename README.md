@@ -1,4 +1,4 @@
-# Rinrinrin4046 Tap
+# rinrinrin4046 Tap
 
 ## How do I install these formulae?
 `brew install rinrinrin4046/tap/<formula>`
